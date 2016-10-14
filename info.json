@@ -1,0 +1,13 @@
+{
+  "username" : "tkms",
+  "passwd" : "",
+  "phone" : "",
+  "phone_emergency" : "",
+  "zanryu_time" : "",
+  "comment_for_building" : "k, e, i, o, l, d, t, z, n, w, another, l=lambda, d=delta, t=tau, z=zeta, n=nu, w=omega",
+  "building" : "",
+  "comment_for_floor" : "anything from 1,2,3,4,5",
+  "floor" : "",
+  "room_number" : "",
+  "reason" : "帰りたくない"
+}
