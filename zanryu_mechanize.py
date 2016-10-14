@@ -67,7 +67,7 @@ def submit_form(prop):
     br['stay_p_phone'] = prop['phone_emergency'].encode('euc-jp') 
     br['stay_time'] = prop['zanryu_time'].encode('euc-jp')
     br['selectRoom'] = [getRoomNumber(prop['building'])] 
-    br['selectFloor'] = ["s2"] #多分selectRoomによって動的に変化するから、うまく指名できてない。
+    #br['selectFloor'] = ["s2"] #多分selectRoomによって動的に変化するから、うまく指名できてない。
     br['stay_room_other'] = prop['room_number']
     br['stay_reason'] = prop['reason'].encode('euc-jp') 
 
